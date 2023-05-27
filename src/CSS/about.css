@@ -1,0 +1,31 @@
+.about-container{
+    background-color: #2E4756;
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.about-pic{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    box-shadow: 10px 5px 10px black;
+    border-radius: 50%;
+    object-fit:cover;
+    margin: 50px 0 0 50px;
+}
+
+.about-left{
+    width: 45%;
+
+}
+
+.about-right{
+    width: 45%;
+    color: #DBC2CF;
+    text-align: left;
+    line-height: 25px;
+
+}

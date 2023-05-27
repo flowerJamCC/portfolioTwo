@@ -1,0 +1,21 @@
+.contact-button{
+    cursor: pointer;
+    padding: 20px;
+    background-color:  #2E4756;
+    border: 1px solid #B9848C;
+    border-radius: 10px;
+    font-family: 'Lobster';
+    color: #DBC2CF;
+    font-size: 33px;
+    /* position: fixed; */
+}
+
+.contact-button:hover{
+    color:#B9848C;
+}
+
+.display-ans{
+    font-family: 'Lobster';
+    font-size: 22px;
+    color: #DBC2CF;
+}

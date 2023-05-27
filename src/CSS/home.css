@@ -1,0 +1,16 @@
+.home-container{
+    background-color: #2E4756;
+    height: 100vh;
+    padding-left: 200px;
+    padding-top: 100px;
+    
+}
+
+.home-paragraph{
+    font-size: 20px;
+    color: #DBC2CF;
+}
+
+.button-container{
+    padding-top: 50px;
+}
